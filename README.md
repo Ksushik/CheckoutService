@@ -72,7 +72,8 @@ Tests:
 added one test, called `CheckoutEndToEndTest` which tests
 api with test cases proposed in test description.
 
-2. In `Main` class I also 
+2. In `Main` class I also initialized classes, so we can test
+new test cases there 
 
 
 
